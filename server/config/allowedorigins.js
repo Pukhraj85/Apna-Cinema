@@ -1,4 +1,4 @@
 const allowedOrigins = [
-    'https://apimemepedia.onrender.com'
+    'https://apnaCinema-api.onrender.com'
 ]
 module.exports=allowedOrigins
